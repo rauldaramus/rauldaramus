@@ -27,7 +27,8 @@ I’m Raul, a **Backend Software Engineer** with a **T-shaped** mindset. I desig
 
 ##  Horizontal Knowledge (Cross-Disciplinary)
 
-- **Frontend:** Vue.js, Next.js  
+- **Frontend:** Vue.js, Next.js
+- **Mobile:** React Native with Expo  
 - **DevOps:**   Nginx, CI/CD GitHub Actions, Docker, Kubernetes, Dev Containers 
 - **DevSecOps:**  SonarQube, OWASP best practices; CSRF, XSS and SQL Injection protection.  
 - **Monorepo & Tooling:** Nx, Prettier, ESLint, Husky, Commitlint, lint-staged  
